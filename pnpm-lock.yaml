@@ -9,7 +9,7 @@ importers:
   .:
     dependencies:
       contentful:
-        specifier: ^9.3.5
+        specifier: ^9.3.7
         version: 9.3.7
       react:
         specifier: ^18.2.0
