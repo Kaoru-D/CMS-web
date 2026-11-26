@@ -6,8 +6,8 @@
 
 #### Install and Setup
 
-- npm install
-- npm run dev
+- pnpm install
+- pnpm dev
 
 #### Structure
 
@@ -48,7 +48,7 @@ Access Token -
 
 #### Install SDK
 
-- npm install contentful
+- pnpm add contentful
 
 #### Get Entries
 
